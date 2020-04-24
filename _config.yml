@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+title: Welcome to the Moth Classifier
+description: An embedded system that takes images of moths, classifies their species, and measures their sizes
