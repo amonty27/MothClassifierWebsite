@@ -12,9 +12,9 @@ Hi, my name is Alicia Montgomery. Not only am I a Computer Science Major at GW, 
 
 *Aimen Bajwa*  
 
-Hi! I’m Aimen Bajwa. I am a Pakistani American studying Computer Science at GW. In my free time I love to read a really, really good sci-fi or dystopian novel, watch a series which makes me laugh or just hangout with close friends. In the future, my dream is to work as a software developer for a great startup company where I am impassioned by my work and the cause I am working for.
+![](/Aimen.jpg)  
 
-![](/Aimen.jpg)
+Hi! I’m Aimen Bajwa. I am a Pakistani American studying Computer Science at GW. In my free time I love to read a really, really good sci-fi or dystopian novel, watch a series which makes me laugh or just hangout with close friends. In the future, my dream is to work as a software developer for a great startup company where I am impassioned by my work and the cause I am working for.
 
 *Abia Khan*  
 
