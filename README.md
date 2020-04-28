@@ -10,7 +10,9 @@
 
 Hi, my name is Alicia Montgomery. Not only am I a Computer Science Major at GW, I am also pursuing a minor in Fine Arts. I have a passion for creating, from coding new programs to painting a figure to working a laser printer, I enjoy anything that involves making something new. I also love playing video games, catching up with my favorite shows, and working out (when time permits). In the future, I would love (and am currently trying) to work as either a UX/UI Designer or a Mobile App Developer.  
 
-*Aimen Bajwa* 
+*Aimen Bajwa*  
+
+Hi! I’m Aimen Bajwa. I am a Pakistani American studying Computer Science at GW. In my free time I love to read a really, really good sci-fi or dystopian novel, watch a series which makes me laugh or just hangout with close friends. In the future, my dream is to work as a software developer for a great startup company where I am impassioned by my work and the cause I am working for.
 
 ![](/Aimen.jpg)
 
