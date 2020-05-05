@@ -32,8 +32,5 @@ Here are links to other parts of our submission
 
 [Final report](https://docs.google.com/document/d/1QgC9O-KaOpGOiQda_yB9nuu0eCot8VzggyFn-r9iwNA/edit?usp=sharing)
 
-## Github Repo
-
-[Check out our Github Repository for the project!](https://github.com/gw-cs-sd/sd-20-bajwa-khan-montgomery)
 
 
