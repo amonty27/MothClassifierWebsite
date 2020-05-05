@@ -28,12 +28,12 @@ Here is a video that describes our project!
 ## Links  
 Here are links to other parts of our submission  
 
-Homework Assignments : https://drive.google.com/open?id=1Kk2Oic0-bdNt5McZilMZIrSR2vMJk4GG
+[Homework Assignments](https://drive.google.com/drive/folders/1Kk2Oic0-bdNt5McZilMZIrSR2vMJk4GG?usp=sharing)
 
-Final report : https://drive.google.com/open?id=1QgC9O-KaOpGOiQda_yB9nuu0eCot8VzggyFn-r9iwNA
+[Final report](https://docs.google.com/document/d/1QgC9O-KaOpGOiQda_yB9nuu0eCot8VzggyFn-r9iwNA/edit?usp=sharing)
 
 ## Github Repo
 
-Check out our Github Repository for the project! : https://github.com/gw-cs-sd/sd-20-bajwa-khan-montgomery
+[Check out our Github Repository for the project!](https://github.com/gw-cs-sd/sd-20-bajwa-khan-montgomery)
 
 
